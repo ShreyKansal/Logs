@@ -1,0 +1,34 @@
+Capturing Network Stack 
+System error 5 has occurred.
+
+Access is denied.
+
+System error 6118 has occurred.
+
+The list of servers for this workgroup is not currently available
+
+Capturing auditpol  
+Error 0x00000522 occurred:
+A required privilege is not held by the client.
+
+Error 0x00000522 occurred:
+A required privilege is not held by the client.
+
+Capturing systeminfo and config 
+Capturing powershell history ignore errors in this section 
+The system cannot find the path specified.
+The system cannot find the path specified.
+Capturing Services and Processes
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+No Instance(s) Available.
+Capturing task scheduler 
+Capturing computer GPO as log and HTML 
+ERROR: Invalid argument/option - '/F'.
+Type "GPRESULT /?" for usage.
+ERROR: Invalid argument/option - '/H'.
+Type "GPRESULT /?" for usage.
+Capturing eventlogs 
+Failed to export log Security.
+Access is denied.
