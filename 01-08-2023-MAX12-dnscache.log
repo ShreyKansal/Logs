@@ -1,0 +1,637 @@
+
+Windows IP Configuration
+
+    match.adsrvr.org
+    ----------------------------------------
+    Record Name . . . . . : match.adsrvr.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15517
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.223.40.198
+
+
+    Record Name . . . . . : match.adsrvr.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15517
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 35.71.131.137
+
+
+    Record Name . . . . . : match.adsrvr.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15517
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 15.197.193.217
+
+
+    Record Name . . . . . : match.adsrvr.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15517
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 3.33.220.150
+
+
+    zippy.mshome.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    zippy.mshome.net
+    ----------------------------------------
+    Record Name . . . . . : zippy.mshome.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.168.137.222
+
+
+    www.cbs.wondershare.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    www.cbs.wondershare.com
+    ----------------------------------------
+    Record Name . . . . . : www.cbs.wondershare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    Record Name . . . . . : www.cbs.wondershare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+    ----------------------------------------
+    Record Name . . . . . : 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : ablecode.local
+
+
+    Record Name . . . . . : 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : www.ablecode.local
+
+
+    www.ablecode.local
+    ----------------------------------------
+    Record Name . . . . . : www.ablecode.local
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : ::1
+
+
+    www.ablecode.local
+    ----------------------------------------
+    Record Name . . . . . : www.ablecode.local
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    cbs.wondershare.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    cbs.wondershare.com
+    ----------------------------------------
+    Record Name . . . . . : cbs.wondershare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    Record Name . . . . . : cbs.wondershare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    hk-009.whiskergalaxy.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    hk-009.whiskergalaxy.com
+    ----------------------------------------
+    Record Name . . . . . : hk-009.whiskergalaxy.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 27.122.12.111
+
+
+    222.137.168.192.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 222.137.168.192.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : zippy.mshome.net
+
+
+    burkeholland.gallerycdn.vsassets.io
+    ----------------------------------------
+    Record Name . . . . . : burkeholland.gallerycdn.vsassets.io
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : 35563.wpc.azureedge.net
+
+
+    Record Name . . . . . : 35563.wpc.azureedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : cs10.wpc.v0cdn.net
+
+
+    Record Name . . . . . : cs10.wpc.v0cdn.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.229.232.200
+
+
+    raw.githubusercontent.com
+    ----------------------------------------
+    Record Name . . . . . : raw.githubusercontent.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 206
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:50c0:8000::154
+
+
+    Record Name . . . . . : raw.githubusercontent.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 206
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:50c0:8001::154
+
+
+    Record Name . . . . . : raw.githubusercontent.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 206
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:50c0:8002::154
+
+
+    Record Name . . . . . : raw.githubusercontent.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 206
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:50c0:8003::154
+
+
+    raw.githubusercontent.com
+    ----------------------------------------
+    Record Name . . . . . : raw.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 3201
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.108.133
+
+
+    Record Name . . . . . : raw.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 3201
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.109.133
+
+
+    Record Name . . . . . : raw.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 3201
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.110.133
+
+
+    Record Name . . . . . : raw.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 3201
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.111.133
+
+
+    seller.flipkart.com
+    ----------------------------------------
+    Record Name . . . . . : seller.flipkart.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 83823
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 163.53.76.21
+
+
+    support.wondershare.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    support.wondershare.net
+    ----------------------------------------
+    Record Name . . . . . : support.wondershare.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    cschlosser.gallerycdn.vsassets.io
+    ----------------------------------------
+    Record Name . . . . . : cschlosser.gallerycdn.vsassets.io
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 194
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : 35563.wpc.azureedge.net
+
+
+    Record Name . . . . . : 35563.wpc.azureedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 194
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : cs10.wpc.v0cdn.net
+
+
+    Record Name . . . . . : cs10.wpc.v0cdn.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 194
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:2800:147:ff8:129b:22eb:20b:1347
+
+
+    cschlosser.gallerycdn.vsassets.io
+    ----------------------------------------
+    Record Name . . . . . : cschlosser.gallerycdn.vsassets.io
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 194
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : 35563.wpc.azureedge.net
+
+
+    Record Name . . . . . : 35563.wpc.azureedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 194
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : cs10.wpc.v0cdn.net
+
+
+    Record Name . . . . . : cs10.wpc.v0cdn.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 194
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.229.232.200
+
+
+    pghbl1.pubgalaxy.com
+    ----------------------------------------
+    Record Name . . . . . : pghbl1.pubgalaxy.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 12044
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.204.201.175
+
+
+    1.0.0.127.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : support.wondershare.net
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : www.wondershare.net
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : www.cbs.wondershare.com
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : cbs.wondershare.com
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : www.wondershare.com
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : platform.wondershare.com
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : cbs.wondershare.com
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : www.cbs.wondershare.com
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : platform.wondershare.com
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : www.wondershare.com
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : ablecode.local
+
+
+    Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : www.ablecode.local
+
+
+    www.gsmarena.com
+    ----------------------------------------
+    Record Name . . . . . : www.gsmarena.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1080
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 148.251.96.211
+
+
+    111.12.122.27.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 111.12.122.27.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : hk-009.whiskergalaxy.com
+
+
+    platform.wondershare.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    platform.wondershare.com
+    ----------------------------------------
+    Record Name . . . . . : platform.wondershare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    Record Name . . . . . : platform.wondershare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    ablecode.local
+    ----------------------------------------
+    Record Name . . . . . : ablecode.local
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : ::1
+
+
+    ablecode.local
+    ----------------------------------------
+    Record Name . . . . . : ablecode.local
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    shivam.mshome.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    shivam.mshome.net
+    ----------------------------------------
+    Record Name . . . . . : Shivam.mshome.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.168.137.14
+
+
+    az764295.vo.msecnd.net
+    ----------------------------------------
+    Record Name . . . . . : az764295.vo.msecnd.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 2531
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : cs22.wpc.v0cdn.net
+
+
+    Record Name . . . . . : cs22.wpc.v0cdn.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2531
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 117.18.232.200
+
+
+    ussus3eastprod.blob.core.windows.net
+    ----------------------------------------
+    Record Name . . . . . : ussus3eastprod.blob.core.windows.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 9
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : blob.bl6prdstr09a.store.core.windows.net
+
+
+    Record Name . . . . . : blob.bl6prdstr09a.store.core.windows.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 9
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.239.152.138
+
+
+    www.wondershare.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    www.wondershare.com
+    ----------------------------------------
+    Record Name . . . . . : www.wondershare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    Record Name . . . . . : www.wondershare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    www.wondershare.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    www.wondershare.net
+    ----------------------------------------
+    Record Name . . . . . : www.wondershare.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 127.0.0.1
+
+
+    69.137.168.192.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 69.137.168.192.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : V2055.mshome.net
+
+
+    collector-pxgnttli3a.px-cloud.net
+    ----------------------------------------
+    Record Name . . . . . : collector-pxgnttli3a.px-cloud.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 904
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 35.190.10.96
+
+
+    v2055.mshome.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    v2055.mshome.net
+    ----------------------------------------
+    Record Name . . . . . : V2055.mshome.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.168.137.69
+
+
+    14.137.168.192.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 14.137.168.192.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 0
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : Shivam.mshome.net
+
+
