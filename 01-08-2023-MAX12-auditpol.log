@@ -1,0 +1,10 @@
+Option Name                             Value
+CrashOnAuditFail                        Disabled
+Option Name                             Value
+AuditBaseObjects                        Disabled
+Option Name                             Value
+AuditBasedirectories                    Disabled
+Option Name                             Value
+CrashOnAuditFail                        Disabled
+Option Name                             Value
+FullPrivilegeAuditing                   Disabled
